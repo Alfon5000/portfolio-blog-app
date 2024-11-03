@@ -1,4 +1,4 @@
-# vue-blog
+# portfolio-blog-app
 
 ## Project setup
 ```

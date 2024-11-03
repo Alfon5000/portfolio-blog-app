@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post 1",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur aspernatur porro eius ut qui expedita, nam dolores delectus quas culpa, reiciendis voluptas odio exercitationem aliquid aperiam ratione saepe libero asperiores.",
+      "tags": ["tag1", "tag2"]
+    },
+    {
+      "id": "2",
+      "title": "Post 2",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est exercitationem et, alias aperiam assumenda magnam aspernatur ipsam impedit deleniti laudantium minima deserunt, ab, ipsa quisquam harum vel quia beatae! Magni.",
+      "tags": ["tag3", "tag4"]
+    }
+  ]
+}
